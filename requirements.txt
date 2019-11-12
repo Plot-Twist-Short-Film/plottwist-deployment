@@ -12,4 +12,4 @@ artellapipe-tools-changelog==0.0.2
 artellapipe-tools-bugtracker==0.0.3
 plottwist-config==0.0.1
 plottwist-bootstrap==0.0.1
-plottiwst==0.0.1
+plottiwst==0.0.10
