@@ -11,6 +11,6 @@ artellapipe-launcher-plugins-dccselector==0.0.4
 artellapipe-tools-welcome==0.0.7
 artellapipe-tools-changelog==0.0.2
 artellapipe-tools-bugtracker==0.0.3
-plottwist-config==0.0.2
+plottwist-config==0.0.3
 plottwist-bootstrap==0.0.1
 plottwist==0.0.10
