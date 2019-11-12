@@ -3,8 +3,8 @@
 # ===================================================================
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.1
-artellapipe-config==0.0.8
-artellapipe==0.0.18
+artellapipe-config==0.0.9
+artellapipe==0.0.19
 artellapipe-dccs-maya==0.0.1
 artellapipe-launcher==0.0.13
 artellapipe-launcher-plugins-dccselector==0.0.4
