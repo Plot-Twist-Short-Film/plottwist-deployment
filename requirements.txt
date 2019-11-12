@@ -1,0 +1,15 @@
+# ===================================================================
+# plottwist deployment requirements file
+# ===================================================================
+artellapipe-libs-artella==0.0.1
+artellapipe-config==0.0.8
+artellapipe==0.0.18
+artellapipe-dccs-maya==0.0.1
+artellapipe-launcher==0.0.13
+artellapipe-launcher-plugins-dccselector==0.0.4
+artellapipe-tools-welcome==0.0.7
+artellapipe-tools-changelog==0.0.2
+artellapipe-tools-bugtracker==0.0.3
+plottwist-config==0.0.1
+plottwist-bootstrap==0.0.1
+plottiwst==0.0.1
