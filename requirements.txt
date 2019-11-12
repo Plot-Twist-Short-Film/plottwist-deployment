@@ -1,6 +1,7 @@
 # ===================================================================
 # plottwist deployment requirements file
 # ===================================================================
+artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.1
 artellapipe-config==0.0.8
 artellapipe==0.0.18
