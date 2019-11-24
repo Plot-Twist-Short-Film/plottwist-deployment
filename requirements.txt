@@ -10,9 +10,10 @@ tpNameIt==0.0.7
 artellapipe-libs-naming==0.0.1
 artellapipe-libs-artella==0.0.3
 artellapipe-libs-kitsu==0.0.1
-artellapipe-config==0.0.15
-artellapipe==0.0.26
-artellapipe-dccs-maya==0.0.5
+artellapipe-libs-pyblish==0.0.1
+artellapipe-config==0.0.16
+artellapipe==0.0.27
+artellapipe-dccs-maya==0.0.6
 artellapipe-launcher==0.0.14
 artellapipe-launcher-plugins-dccselector==0.0.6
 artellapipe-tools-welcome==0.0.8
@@ -23,6 +24,7 @@ artellapipe-tools-artellauploader==0.0.3
 artellapipe-tools-assetslibrary==0.0.2
 artellapipe-tools-assetsmanager==0.0.3
 artellapipe-tools-namemanager==0.0.2
-plottwist-config==0.0.3
+artellapipe-tools-modelchecker==0.0.1
+plottwist-config==0.0.4
 plottwist-bootstrap==0.0.1
-plottwist==0.0.10
+plottwist==0.0.11
