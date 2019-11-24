@@ -1,16 +1,28 @@
 # ===================================================================
 # plottwist deployment requirements file
 # ===================================================================
+tpPyUtils==0.0.20
+tpDccLib==0.0.9
+tpMayaLib==0.0.9
+tpHoudiniLib==0.0.2
+tpQtLib==0.0.17
+tpNameIt==0.0.7
 artellapipe-libs-naming==0.0.1
-artellapipe-libs-artella==0.0.1
-artellapipe-config==0.0.9
-artellapipe==0.0.19
-artellapipe-dccs-maya==0.0.1
-artellapipe-launcher==0.0.13
-artellapipe-launcher-plugins-dccselector==0.0.4
-artellapipe-tools-welcome==0.0.7
-artellapipe-tools-changelog==0.0.2
-artellapipe-tools-bugtracker==0.0.3
+artellapipe-libs-artella==0.0.3
+artellapipe-libs-kitsu==0.0.1
+artellapipe-config==0.0.15
+artellapipe==0.0.26
+artellapipe-dccs-maya==0.0.5
+artellapipe-launcher==0.0.14
+artellapipe-launcher-plugins-dccselector==0.0.6
+artellapipe-tools-welcome==0.0.8
+artellapipe-tools-changelog==0.0.3
+artellapipe-tools-bugtracker==0.0.4
+artellapipe-tools-artellamanager==0.0.3
+artellapipe-tools-artellauploader==0.0.3
+artellapipe-tools-assetslibrary==0.0.2
+artellapipe-tools-assetsmanager==0.0.3
+artellapipe-tools-namemanager==0.0.2
 plottwist-config==0.0.3
 plottwist-bootstrap==0.0.1
 plottwist==0.0.10
