@@ -9,7 +9,7 @@ tpDcc-tools-renamer==0.0.5
 artellapipe-libs-alembic==0.0.4
 artellapipe-libs-arnold==0.0.3
 artellapipe-libs-artella==0.0.5
-artellapipe-libs-kitsu==0.0.5
+artellapipe-libs-kitsu==0.0.6
 artellapipe-libs-naming==0.0.2
 artellapipe-libs-pyblish== 0.0.3
 artellapipe-config==0.0.24
