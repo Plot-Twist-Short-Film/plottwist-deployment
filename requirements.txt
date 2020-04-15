@@ -1,5 +1,5 @@
 tpDcc-libs-python==0.0.5
-tpDcc-core==0.0.8
+tpDcc-core==0.0.9
 tpDcc-libs-qt==0.0.8
 tpDcc-config == 0.0.5
 tpDcc-dccs-maya==0.0.7
@@ -13,7 +13,7 @@ artellapipe-libs-kitsu==0.0.6
 artellapipe-libs-naming==0.0.2
 artellapipe-libs-pyblish== 0.0.3
 artellapipe-config==0.0.24
-artellapipe==0.0.40
+artellapipe==0.0.41
 artellapipe-dccs-maya==0.0.12
 artellapipe-launcher==0.0.17
 artellapipe-launcher-plugins-dccselector==0.0.9
