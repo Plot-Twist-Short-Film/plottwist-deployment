@@ -1,24 +1,24 @@
-tpDcc-libs-python==0.0.5
-tpDcc-core==0.0.10
-tpDcc-libs-qt==0.0.9
+tpDcc-libs-python==0.0.6
+tpDcc-core==0.0.11
+tpDcc-libs-qt==0.0.12
 tpDcc-config == 0.0.5
-tpDcc-dccs-maya==0.0.8
+tpDcc-dccs-maya==0.0.9
 tpDcc-libs-nameit==0.0.4
 tpDcc-tools-nameit==0.0.4
 tpDcc-tools-renamer==0.0.5
+artellapipe-config==0.0.25
+artellapipe==0.0.45
 artellapipe-libs-alembic==0.0.4
 artellapipe-libs-arnold==0.0.3
 artellapipe-libs-artella==0.0.6
-artellapipe-libs-kitsu==0.0.6
+artellapipe-libs-kitsu==0.0.7
 artellapipe-libs-naming==0.0.2
-artellapipe-libs-pyblish== 0.0.3
-artellapipe-config==0.0.24
-artellapipe==0.0.43
+artellapipe-libs-pyblish== 0.0.4
 artellapipe-dccs-maya==0.0.12
 artellapipe-launcher==0.0.17
 artellapipe-launcher-plugins-dccselector==0.0.9
 artellapipe-launcher-plugins-artellamanager==0.0.11
-artellapipe-tools-artellamanager==0.0.8
+artellapipe-tools-artellamanager==0.0.11
 artellapipe-tools-artellauploader==0.0.7
 artellapipe-tools-assetslibrary==0.0.8
 artellapipe-tools-assetsmanager==0.0.8
