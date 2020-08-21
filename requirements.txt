@@ -1,28 +1,34 @@
 # ===================================================================
 # plottwist deployment requirements file
 # ===================================================================
-tpDcc-libs-python==0.0.7
-tpDcc-core==0.0.13
-tpDcc-libs-qt==0.0.13
-tpDcc-config == 0.0.5
-tpDcc-dccs-maya==0.0.10
-tpDcc-libs-nameit==0.0.5
-tpDcc-tools-nameit==0.0.4
+
+# tpDcc libraries
+tpDcc-libs-python==0.0.11
+tpDcc-core==0.0.19
+tpDcc-libs-qt==0.0.18
+tpDcc-config == 0.0.7
+tpDcc-dccs-maya==0.0.14
+tpDcc-libs-nameit==0.0.8
+tpDcc-tools-nameit==0.0.6
 tpDcc-tools-renamer==0.0.5
-artellapipe-config==0.0.26
-artellapipe==0.0.46
-artellapipe-libs-alembic==0.0.5
-artellapipe-libs-arnold==0.0.3
-artellapipe-libs-artella==0.0.6
-artellapipe-libs-kitsu==0.0.8
-artellapipe-libs-naming==0.0.2
-artellapipe-libs-pyblish== 0.0.5
-artellapipe-dccs-maya==0.0.12
-artellapipe-launcher==0.0.17
-artellapipe-launcher-plugins-dccselector==0.0.9
-artellapipe-launcher-plugins-artellamanager==0.0.11
-artellapipe-tools-artellamanager==0.0.12
-artellapipe-tools-artellauploader==0.0.7
+
+# artellapipe libraries
+artellapipe-config==0.0.30
+artellapipe==0.0.50
+artellapipe-libs-alembic==0.0.6
+artellapipe-libs-arnold==0.0.4
+artellapipe-libs-artella==0.0.8
+artellapipe-libs-ffmpeg==0.0.4
+artellapipe-libs-kitsu==0.0.9
+artellapipe-libs-pyblish==0.0.6
+artellapipe-libs-usd==0.0.1
+artellapipe-dccs-maya==0.0.15
+artellapipe-launcher==0.0.21
+artellapipe-launcher-plugins-artellamanager==0.0.12
+artellapipe-launcher-plugins-dccselector==0.0.10
+artellapipe-tools-artellamanager==0.0.14
+artellapipe-tools-artellauploader==0.0.8
+
 artellapipe-tools-assetslibrary==0.0.9
 artellapipe-tools-assetsmanager==0.0.9
 artellapipe-tools-bugtracker==0.0.7
@@ -32,6 +38,8 @@ artellapipe-tools-lightrigsmanager==0.0.9
 artellapipe-tools-modelchecker==0.0.3
 artellapipe-tools-namemanager==0.0.7
 artellapipe-tools-renamer==0.0.3
+
+# plottwist libraries
 plottwist-config==0.0.15
 plottwist-bootstrap==0.0.3
 plottwist==0.0.18
