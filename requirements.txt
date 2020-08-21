@@ -40,6 +40,6 @@ artellapipe-tools-renamer==0.0.4
 
 # plottwist libraries
 plottwist-config==0.0.16
-plottwist-bootstrap==0.0.3
+plottwist-bootstrap==0.0.4
 plottwist==0.0.19
 plottwist-libs-pyblish==0.0.3
