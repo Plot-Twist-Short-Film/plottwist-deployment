@@ -14,7 +14,7 @@ tpDcc-tools-renamer==0.0.5
 
 # artellapipe libraries
 artellapipe-config==0.0.31
-artellapipe==0.0.52
+artellapipe==0.0.53
 artellapipe-libs-alembic==0.0.7
 artellapipe-libs-arnold==0.0.5
 artellapipe-libs-artella==0.0.8
