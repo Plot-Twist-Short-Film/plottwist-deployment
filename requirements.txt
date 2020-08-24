@@ -13,11 +13,11 @@ tpDcc-tools-nameit==0.0.7
 tpDcc-tools-renamer==0.0.5
 
 # artellapipe libraries
-artellapipe-config==0.0.31
-artellapipe==0.0.53
+artellapipe-config==0.0.32
+artellapipe==0.0.54
 artellapipe-libs-alembic==0.0.7
 artellapipe-libs-arnold==0.0.5
-artellapipe-libs-artella==0.0.8
+artellapipe-libs-artella==0.0.9
 artellapipe-libs-ffmpeg==0.0.4
 artellapipe-libs-kitsu==0.0.9
 artellapipe-libs-pyblish==0.0.6
@@ -26,7 +26,7 @@ artellapipe-dccs-maya==0.0.15
 artellapipe-launcher==0.0.21
 artellapipe-launcher-plugins-artellamanager==0.0.12
 artellapipe-launcher-plugins-dccselector==0.0.10
-artellapipe-tools-artellamanager==0.0.14
+artellapipe-tools-artellamanager==0.0.15
 artellapipe-tools-artellauploader==0.0.8
 artellapipe-tools-assetslibrary==0.0.10
 artellapipe-tools-assetsmanager==0.0.10
