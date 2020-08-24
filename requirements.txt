@@ -4,10 +4,10 @@
 
 # tpDcc libraries
 tpDcc-libs-python==0.0.11
-tpDcc-core==0.0.19
+tpDcc-core==0.0.20
 tpDcc-libs-qt==0.0.18
 tpDcc-config == 0.0.7
-tpDcc-dccs-maya==0.0.14
+tpDcc-dccs-maya==0.0.15
 tpDcc-libs-nameit==0.0.8
 tpDcc-tools-nameit==0.0.7
 tpDcc-tools-renamer==0.0.5
