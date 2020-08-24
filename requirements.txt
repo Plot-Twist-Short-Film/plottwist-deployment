@@ -21,7 +21,7 @@ artellapipe-libs-artella==0.0.10
 artellapipe-libs-ffmpeg==0.0.4
 artellapipe-libs-kitsu==0.0.9
 artellapipe-libs-pyblish==0.0.6
-artellapipe-libs-usd==0.0.2
+artellapipe-libs-usd==0.0.3
 artellapipe-dccs-maya==0.0.15
 artellapipe-launcher==0.0.23
 artellapipe-launcher-plugins-artellamanager==0.0.12
