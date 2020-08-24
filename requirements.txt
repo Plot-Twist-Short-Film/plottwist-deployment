@@ -39,7 +39,7 @@ artellapipe-tools-namemanager==0.0.10
 artellapipe-tools-renamer==0.0.4
 
 # plottwist libraries
-plottwist-config==0.0.17
+plottwist-config==0.0.18
 plottwist-bootstrap==0.0.4
 plottwist==0.0.19
 plottwist-libs-pyblish==0.0.4
