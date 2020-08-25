@@ -26,7 +26,7 @@ artellapipe-dccs-maya==0.0.15
 artellapipe-launcher==0.0.23
 artellapipe-launcher-plugins-artellamanager==0.0.12
 artellapipe-launcher-plugins-dccselector==0.0.11
-artellapipe-tools-artellamanager==0.0.15
+artellapipe-tools-artellamanager==0.0.16
 artellapipe-tools-artellauploader==0.0.8
 artellapipe-tools-assetslibrary==0.0.10
 artellapipe-tools-assetsmanager==0.0.10
