@@ -3,14 +3,14 @@
 # ===================================================================
 
 # tpDcc libraries
-tpDcc-libs-python==0.0.11
-tpDcc-core==0.0.20
-tpDcc-libs-qt==0.0.18
+tpDcc-libs-python==0.0.12
+tpDcc-core==0.0.21
+tpDcc-libs-qt==0.0.19
 tpDcc-config == 0.0.7
-tpDcc-dccs-maya==0.0.15
+tpDcc-dccs-maya==0.0.16
 tpDcc-libs-nameit==0.0.8
-tpDcc-tools-nameit==0.0.7
-tpDcc-tools-renamer==0.0.5
+tpDcc-tools-nameit==0.0.8
+tpDcc-tools-renamer==0.0.6
 
 # artellapipe libraries
 artellapipe-config==0.0.32
